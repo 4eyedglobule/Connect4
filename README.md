@@ -1,1 +1,1 @@
-It's a connect 4 game.
+It's a connect 4 game in python.
