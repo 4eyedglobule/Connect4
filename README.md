@@ -1,1 +1,1 @@
-It's a connect 4 game in python.
+Connect 4 game programmed in python, uses terminal user input for responses
